@@ -4,6 +4,10 @@
   color: white;
 }
 
+.navbar-nav {
+  font-size: 1.2rem;
+}
+
 main {
   overflow: hidden;
 }
@@ -18,13 +22,14 @@ main {
 }
 
 @media screen and (max-width: 768px) {
-  .fixed-bottom {
-    position: relative !important;
+  .row {
+    --bs-gutter-x:0px !important;
   }
   .profile {
-    padding-top: 70px !important;
     width: 300px !important;
     font-size: 10px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
   }
   .content {
     font-size:10px !important;
@@ -34,5 +39,19 @@ main {
   }
   .content h5 {
     font-size: 12px !important;
+  }
+
+  .right {
+    margin-top: 30px !important;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .profile {
+    padding-top: 80px !important;
+    padding-bottom: 0px !important;
+  }
+  .image {
+    width: 240px !important;
   }
 }
