@@ -33,9 +33,32 @@ export default function Project() {
                     <div class="year">February 2023 - Now</div>
                     <ul>
                         <li>
-                            Notable Course: Learn Basic JavaScript Programming, Learn to Build Back-End Applications for
-                            Beginners with Google Cloud, System Administration and IT Infrastructure Services, Google Cloud
-                            Computing Foundation, Cloud Engineer Learning Path
+                            <a href="https://www.cloudskillsboost.google/public_profiles/639bc2f0-94ab-4ae8-b7e5-64c519f122b9"
+                            className="text-white" target="_blank">Google Cloud Skill Boost</a>
+                        </li>
+                        <li>
+                            <a href="https://coursera.org/share/be96440dd43e53b5f7b0378ef26e5f18"
+                            className="text-white" target="_blank">System Administration and IT Infrastructure Services (Coursera)</a>
+                        </li>
+                        <li>
+                            <a href="https://coursera.org/share/f68cdb5eba921d85e162ccbdd0127f99"
+                            className="text-white" target="_blank">The Bits and Bytes of Computer Networking (Coursera)</a>
+                        </li>
+                        <li>
+                            <a href="https://www.dicoding.com/certificates/07Z6VVJYRXQR"
+                            className="text-white" target="_blank">Menjadi Google Cloud Engineer (Dicoding)</a>
+                        </li>
+                        <li>
+                            <a href="https://www.dicoding.com/certificates/EYX49WWR5PDL"
+                            className="text-white" target="_blank">Belajar Dasar Pemrograman JavaScript (Dicoding)</a>
+                        </li>
+                        <li>
+                            <a href="https://www.dicoding.com/certificates/07Z6G2Q9YXQR"
+                            className="text-white" target="_blank">Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud (Dicoding)</a>
+                        </li>
+                        <li>
+                            <a href="https://www.dicoding.com/certificates/0LZ0G0D0QX65"
+                            className="text-white" target="_blank">Belajar Dasar Pemrograman Web (Dicoding)</a>
                         </li>
                     </ul>
                 </div>

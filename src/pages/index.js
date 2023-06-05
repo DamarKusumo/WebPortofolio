@@ -28,9 +28,9 @@ export default function Home() {
               of Computer Science. I have a strong passion for web development,
               particularly in backend development. With proficiency in
               languages like Python, Java, and JavaScript, along with
-              frameworks like Django, Spring Boot, and NextJS, I excel at
+              frameworks like Django, Spring Boot, and Next.js, I excel at
               building efficient and secure server-side code. I also have
-              experience with databases such as MySQL, PostgreeSQL, and
+              experience with databases such as MySQL, PostgreSQL, and
               Firestore. I'm actively seeking opportunities to apply my skills
               and contribute to impactful web projects.
             </p>

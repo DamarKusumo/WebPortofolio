@@ -47,6 +47,16 @@ export default function Footer() {
           >
             <i className="fab fa-twitter"></i>
           </a>
+
+          <a
+            className="btn btn-outline-light btn-floating m-1"
+            href="https://drive.google.com/drive/folders/1UBb-Hke-QvMl0t6Unlq-hyWG7EWCMcNV?usp=sharing"
+            role="button"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="fa fa-address-card"></i>
+          </a>
         </section>
       </div>
 

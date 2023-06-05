@@ -14,7 +14,7 @@ export default function Empiris() {
                 img1="/propen1.png"
                 img2="/propen2.png"
                 link1="https://docs.google.com/document/d/1q927yfBboDvQ4z6SoUrit31rNka42mgs/edit?usp=share_link&ouid=100584184921244929746&rtpof=true&sd=true"
-                link2="https://drive.google.com/drive/folders/19d6OTiyQVMqnwuAdNDL4NWser6gRIc9q?usp=share_link" 
+                link2="https://univindonesia-my.sharepoint.com/:v:/g/personal/muhammad_arya02_office_ui_ac_id/ESyuzzG1LvpBlVUD3BK0_OgBt2uKRNDXaYHgFe5rffQu8w?e=dp5DzK" 
                 link1Des="Demo Access"
                 link2Des="Demo Video"
                 learn="Full Stack Development with React & NextJS, Project Management Skill, and Prisma framework to connect app with MySQL dB."

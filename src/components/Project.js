@@ -65,24 +65,24 @@ export default function ProjectTemplate({
         )}
         {link1 && link2 && (
           <div className="text-center">
-            <a className="btn btn-link" href={link1} target="__blank">
+            <a className="btn btn-link" href={link1} target="_blank">
               {link1Des}
             </a>
-            <a className="btn btn-link" href={link2} target="__blank">
+            <a className="btn btn-link" href={link2} target="_blank">
               {link2Des}
             </a>
           </div>
         )}
         {link1 && !link2 && (
           <div className="text-center">
-            <a className="btn btn-link" href={link1} target="__blank">
+            <a className="btn btn-link" href={link1} target="_blank">
               {link1Des}
             </a>
           </div>
         )}
         {link2 && !link1 && (
           <div className="text-center">
-            <a className="btn btn-link" href={link2} target="__blank">
+            <a className="btn btn-link" href={link2} target="_blank">
               {link2Des}
             </a>
           </div>

@@ -13,9 +13,9 @@ export default function RumahSehat() {
                 description="The project is a website developed using Spring Boot, with Docker integration. It incorporates CRUD functionality, allowing users to create, read, update, and delete data through the website. Docker is used to enhance the deployment and management process of the application, ensuring efficient and consistent performance across different environments. The project highlights the seamless combination of Spring Boot and Docker to create a reliable and scalable website with robust CRUD capabilities."
                 img1="/apap1.png"
                 img2="/apap2.png"
-                link1=""
+                link1="https://www.canva.com/design/DAFVZ9FGNWk/MbuwX18Dw5eqIRWpRICOgA/edit?utm_content=DAFVZ9FGNWk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                 link2="" 
-                link1Des="Demo Access"
+                link1Des="Presentation File"
                 link2Des="Demo Video"
                 learn="Full Stack Development with Java Framework (SpringBoot & Thymeleaf), Dockerize app, and XAMPP as local MySQL server."
             />
